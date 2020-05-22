@@ -1,4 +1,4 @@
-/*
+
 #include "LCD.h"
 #include <p30f4011.h>
 
@@ -23,10 +23,10 @@ int	main( void )
 	putrsLCD( My_String1 ) ;			// 
 										// putrsLCD( )
 			
-	setcurLCD(0,1) ;					// ¨write in the second line 
+	setcurLCD(0,1) ;					// Â¨write in the second line 
 	putsLCD( My_String2 ) ;				// 
 										// putsLCD( ) 
 
 	while(1) ;							// Forever loop
 }
- */
+ 
