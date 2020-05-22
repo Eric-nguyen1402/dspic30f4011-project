@@ -1,5 +1,5 @@
 
-/*
+
 #include <p30f4011.h>
 #include <libpic30.h>
 #include <xc.h>
@@ -102,4 +102,3 @@ int main(void)
     return 0;
 }
  
-*/
