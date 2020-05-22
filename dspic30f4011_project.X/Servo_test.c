@@ -1,4 +1,4 @@
-/*
+
 #include "LCD.h"
 #include <xc.h>
 #include <p30f4011.h>
@@ -202,4 +202,3 @@ while(1){
 }
 }
 
-*/
