@@ -1,4 +1,4 @@
-/*
+
 #include <xc.h>
 #include <libpic30.h>
 #include <p30f4011.h>
@@ -138,4 +138,3 @@ _TRISC14 = 0;
          }
          
     }
-*/
